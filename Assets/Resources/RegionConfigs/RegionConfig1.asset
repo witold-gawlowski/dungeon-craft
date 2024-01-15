@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9094526203b6c644d8c4c705c7d5c228, type: 3}
+  m_Name: RegionConfig1
+  m_EditorClassIdentifier: 
+  mapPacks:
+  - {fileID: 11400000, guid: 1fe790b7bfb7e3840be5a94712d71c8a, type: 2}
+  rewardBlockConfigs:
+  - {fileID: 11400000, guid: b4112818ea52f824388dce264db96a19, type: 2}
+  regionColor: {r: 1, g: 0, b: 0, a: 1}

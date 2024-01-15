@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1-MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/2-LevelShop.unity
+    guid: 80429203222461f4d884e590a9e936ab
+  - enabled: 1
+    path: Assets/Scenes/3-BlockShop.unity
+    guid: 42f66e7af3d4d0d4c95af7e7a5aaa56f
+  - enabled: 1
+    path: Assets/Scenes/4-BlockSelection.unity
+    guid: 1f2c0f57c5334cd46bc5831d49525331
+  - enabled: 1
+    path: Assets/Scenes/5-Briefing.unity
+    guid: 3120b902f324fd044b1cb6ba50801687
+  - enabled: 1
+    path: Assets/Scenes/6-ConfirmationScene.unity
+    guid: 4784a7a3bbe37e64cbb5d05217d1acaa
+  - enabled: 1
+    path: Assets/Scenes/7-Mission.unity
+    guid: c8d30ccc781de1044997cfb1a1607d89
+  - enabled: 1
+    path: Assets/Scenes/ManagerScene.unity
+    guid: 82f06bd49f893424880f4a702ea23bb1
+  - enabled: 1
+    path: Assets/Scenes/8-GlobalMap.unity
+    guid: dde025ec99beeeb4ca86a2bb1a7ef232
+  - enabled: 1
+    path: Assets/Scenes/9-GlobalBlockInventory.unity
+    guid: d02ac16f72a63e446a21c90090c56fe5
+  - enabled: 1
+    path: Assets/Scenes/10-GlobalConfirmationScene.unity
+    guid: 48b94e9d50e9c804f9550adc9a580c31
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: bc31a33283dbf6d489156154b962ecb8, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e08b747c06156034dbc1eb1fc60dc628, type: 2}
