@@ -15,11 +15,11 @@ public class RunReward
 
 public class RegionConfig : ScriptableObject
 {
-    [SerializeField] private List<MapPack> mapPacks;
-    [SerializeField] private List<BlockConfig> rewardBlockConfigs;
-    [SerializeField] private Color regionColor = Color.red;
+    [SerializeField] protected List<MapPack> mapPacks;
+    [SerializeField] protected List<BlockConfig> rewardBlockConfigs;
+    [SerializeField] protected Color regionColor = Color.red;
 
-    private RunConfig _configToFill;
+    protected RunConfig _configToFill;
 
     public Color GetRegionColor() {  return regionColor; }
 
